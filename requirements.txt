@@ -1,0 +1,5 @@
+pandas==1.2.0
+numpy==1.19.3
+python-docx==0.8.6
+docx-mailmerge==0.5.0
+num2words==0.5.10 
